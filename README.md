@@ -1,2 +1,6 @@
-# 2026_GameEnginelntro
+# 2026\_GameEnginelntro
+
 게임엔진입문 프로젝트
+
+2026137054 라민성 안녕하세요
+
